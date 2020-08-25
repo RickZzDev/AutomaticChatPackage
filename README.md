@@ -1,6 +1,6 @@
 # AutomaticChat
 
-A new Flutter project.
+Thast's the package that i have created to simulate a chat animated andautomatic writing text
 
 ## Getting Started
 
