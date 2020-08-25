@@ -1,4 +1,4 @@
-# test_chat
+# AutomaticChat
 
 A new Flutter project.
 
